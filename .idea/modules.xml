@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../fire-cms/api/api.iml" filepath="$PROJECT_DIR$/../fire-cms/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-member/api/api.iml" filepath="$PROJECT_DIR$/../fire-member/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-base/entities/cms/cms.iml" filepath="$PROJECT_DIR$/../fire-base/entities/cms/cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-cms/components/components.iml" filepath="$PROJECT_DIR$/../fire-cms/components/components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-member/components/components.iml" filepath="$PROJECT_DIR$/../fire-member/components/components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-base/entities/entities.iml" filepath="$PROJECT_DIR$/../fire-base/entities/entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-base/fire-base.iml" filepath="$PROJECT_DIR$/../fire-base/fire-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-cms/fire-cms.iml" filepath="$PROJECT_DIR$/../fire-cms/fire-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-common/fire-common.iml" filepath="$PROJECT_DIR$/../fire-common/fire-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-member/fire-member.iml" filepath="$PROJECT_DIR$/../fire-member/fire-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fire-parent.iml" filepath="$PROJECT_DIR$/fire-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fire-base/entities/member/member.iml" filepath="$PROJECT_DIR$/../fire-base/entities/member/member.iml" />
+    </modules>
+  </component>
+</project>
